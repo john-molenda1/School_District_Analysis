@@ -13,7 +13,7 @@ The following section describes how individual sections of our code were affecte
 ### Thomas High School Performance
 
 ### Score Statistics
-*Math & Reading Scores by Grade
+* Math & Reading Scores by Grade
 
 *Scores by school spending
 
